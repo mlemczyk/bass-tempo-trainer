@@ -1,0 +1,6 @@
+numpy>=2.0
+scipy>=1.13
+sounddevice>=0.5
+PySide6>=6.8
+pyqtgraph>=0.13
+pytest>=8
