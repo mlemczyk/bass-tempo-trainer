@@ -1,5 +1,7 @@
 # Bass Tempo Trainer
 
+[![tests](https://github.com/mlemczyk/bass-tempo-trainer/actions/workflows/tests.yml/badge.svg)](https://github.com/mlemczyk/bass-tempo-trainer/actions/workflows/tests.yml)
+
 A Windows practice app for building two-finger (index/middle) plucking speed
 on bass. It plays a metronome, listens to your raw bass signal live, scores
 how well each note lands on the beat, and in training mode raises the tempo
