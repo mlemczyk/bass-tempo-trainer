@@ -5,6 +5,8 @@ on bass. It plays a metronome, listens to your raw bass signal live, scores
 how well each note lands on the beat, and in training mode raises the tempo
 each time you hold it.
 
+![Bass Tempo Trainer: i/m metronome boxes, timing strip, speedometer and lesson graphs](docs/screenshot.png)
+
 - **Metronome with a visual:** two boxes, **i** and **m**, light in turn on
   every note, with beat dots underneath. Each box flashes green / yellow /
   red with the timing of the pluck you just played.
